@@ -1,8 +1,8 @@
-package pgp
+package go_pgp
 
 import (
-	"golang.org/x/crypto/openpgp"
 	"bytes"
+	"golang.org/x/crypto/openpgp"
 	"golang.org/x/crypto/openpgp/armor"
 )
 
