@@ -1,4 +1,4 @@
-module github.com/0sax/go-pgp
+module github.com/0sax/gopgp
 
 // forked from github.com/jchavannes/go-pgp
 

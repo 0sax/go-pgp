@@ -1,4 +1,4 @@
-package go_pgp
+package gopgp
 
 import (
 	"bytes"

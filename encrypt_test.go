@@ -1,4 +1,4 @@
-package go_pgp_test
+package gopgp_test
 
 import (
 	"errors"
